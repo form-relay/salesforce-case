@@ -1,5 +1,5 @@
-Form Relay Salesforce
-=====================
+Form Relay Salesforce Case
+==========================
 
 Provides a route for the form-relay package, which can send form submissions to the Web-To-Case API of SFDC.
 
